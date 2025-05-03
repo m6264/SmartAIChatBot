@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartAIChatBot.Models
 {
-    internal class Prediction
+    public class Prediction
     {
     }
 }
